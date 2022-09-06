@@ -9,4 +9,10 @@ mahesh an mi meet at clg
 at balewadi
 
 
+<<<<<<< HEAD
 Mahesh Was Living in PG Initally in balewadi near college
+=======
+Mahesh Was Living in PG Initally
+at balewadi
+
+>>>>>>> 6e5810b2f0d143fac8f33c01c7cb523d14eecf1e
