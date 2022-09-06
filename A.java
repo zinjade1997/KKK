@@ -1,3 +1,0 @@
-Kiran Zinjade
-
-Mahesh Gitte
